@@ -1,4 +1,4 @@
-<img src="https://github.com/BangAjii/BangAjii/blob/main/anim.gif" width="200px">
+<img src="https://github.com/BangAjii/BangAjii/blob/main/anim.gif" width="800px">
 <h1 align="center">Hi 👋, I'm Ridho</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
