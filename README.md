@@ -1,4 +1,4 @@
-<img src="https://animesher.com/orig/0/94/945/9453/animesher.com_aki-chan-run-kawaii-945396.gif">
+<img src="https://github.com/BangAjii/BangAjii/blob/main/anim.gif">
 <h1 align="center">Hi 👋, I'm Ridho</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
